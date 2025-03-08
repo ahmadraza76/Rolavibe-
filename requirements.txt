@@ -1,1 +1,7 @@
-
+# requirements.txt
+pyrogram
+pytgcalls
+yt-dlp
+spotipy
+aiofiles
+flask
